@@ -14,4 +14,4 @@ description: Markdown summary with different options
 ---
 
 # My first post
-This is my first post on this site.
+Throughout these past few years, I've dabbled in various forms of blogging about a large range of topics, btu nothign had really stuck for long/ I tried book reviewing for a while, and switched to a lifestyle blog, but my interests were ever really blah enough to 

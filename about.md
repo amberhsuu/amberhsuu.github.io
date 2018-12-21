@@ -18,23 +18,21 @@ consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
+
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>Professional copy for varied purposes and audiences</li>
+	<li>Social media marketing strategy</li>
+	<ul>
+	<li>Platforms include: Facebook, Instagram, Snapchat</li>
+	<li>Inter-organizational outreach and work coordination</li>
+	<li>Large and small scale event planning and facilitation</li>
+	<li>Familiarity with education management platforms
+	<ul>
+	<li>Exxat, Filemaker, Catalyst, Canvas</li>
+	<li>Familiarity with Adobe Photoshop and Illustrator</li>
+	<li>Fluency in English and Chinese (Mandarin)</li>
 </ul>
 
 <h2>Projects</h2>
