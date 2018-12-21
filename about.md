@@ -30,12 +30,12 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 	</ul>
 	<li>Inter-organizational outreach and work coordination</li>
 	<li>Large and small scale event planning and facilitation</li>
-	<li>Familiarity with education management platforms
+	<li>Education management platforms
 	<ul>
 	<li>Exxat, Filemaker, Catalyst, Canvas</li>
 	</ul>
-	<li>Familiarity with Adobe Photoshop and Illustrator</li>
-	<li>Fluency in English and Chinese (Mandarin)</li>
+	<li>Adobe Photoshop and Illustrator</li>
+	<li>Written and spoken English and Chinese (Mandarin)</li>
 </ul>
 
 <h2>Projects</h2>
