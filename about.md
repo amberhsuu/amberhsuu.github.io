@@ -36,7 +36,6 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 	</ul>
 	<li>Adobe Photoshop and Illustrator</li>
 	<li>Written and spoken English and Chinese (Mandarin)</li>
-</ul>
 
 <h2>Projects</h2>
 
