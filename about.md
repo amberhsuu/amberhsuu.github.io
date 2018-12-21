@@ -26,11 +26,15 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 	<li>Social media marketing strategy on various platforms</li>
 	<ul>
 	<li>Facebook, Instagram, Snapchat</li>
+	</ul>
+	</li>
 	<li>Inter-organizational outreach and work coordination</li>
 	<li>Large and small scale event planning and facilitation</li>
 	<li>Familiarity with education management platforms
 	<ul>
 	<li>Exxat, Filemaker, Catalyst, Canvas</li>
+	</ul>
+	</li>
 	<li>Familiarity with Adobe Photoshop and Illustrator</li>
 	<li>Fluency in English and Chinese (Mandarin)</li>
 </ul>
