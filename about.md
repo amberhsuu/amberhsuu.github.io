@@ -23,9 +23,9 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
 <ul class="skill-list">
 	<li>Professional copy for varied purposes and audiences</li>
-	<li>Social media marketing strategy</li>
+	<li>Social media marketing strategy on various platforms</li>
 	<ul>
-	<li>Platforms include: Facebook, Instagram, Snapchat</li>
+	<li>Facebook, Instagram, Snapchat</li>
 	<li>Inter-organizational outreach and work coordination</li>
 	<li>Large and small scale event planning and facilitation</li>
 	<li>Familiarity with education management platforms
