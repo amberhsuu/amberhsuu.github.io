@@ -9,7 +9,6 @@ layout: page
 
 <p>I am currently a Junior studying English and Biochemistry at the University of Washington. In the past few years I've developed an interest in the field of digital marketing, particularly in the workings of digital copy and content strategy. I have experience writing professional copy for everything from Facebook marketing posts and outreach emails to Residential Advisor newsletters and chemistry lab reports.</p>
 
-<p>Sth about uw nm</p>
 ---
 <h2>Skills</h2>
 
@@ -27,6 +26,7 @@ layout: page
 	</ul>
 	<li>Adobe Photoshop and Illustrator</li>
 	<li>Written and spoken English and Chinese (Mandarin)</li>
+</ul>
 
 ---
 <h2>Projects</h2>
