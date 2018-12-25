@@ -34,4 +34,5 @@ layout: page
 	<li><a href="https://amberhsuu.github.io/UW-Night-Market-2018/">UW Night Market 2018</a></li>
 	<li><a href="https://amberhsuu.github.io/TSA-Clash-of-Clubs/">TSA Clash of Clubs</a></li>
 	<li><a href="https://amberhsuu.github.io/HCASB/">Healthcare Alternative Spring Break</a></li>
+	<li><a href="https://amberhsuu.github.io/projects/">More projects...</a></li>
 </ul>
