@@ -5,12 +5,11 @@ date: 2018-12-20 22:44
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
-- markdown
-- elements
+- thoughts
 star: true
 category: blog
 author: amberhsu
-description: Markdown summary with different options
+description: First blog post
 ---
 
 # My first post
