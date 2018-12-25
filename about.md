@@ -12,7 +12,7 @@ layout: page
 ---
 <h2>Skills</h2>
 
-<ul class="skill-list">
+<ul>
 	<li>Professional copy for varied purposes and audiences</li>
 	<li>Social media marketing strategy on various platforms</li>
 	<ul>
@@ -26,6 +26,7 @@ layout: page
 	</ul>
 	<li>Adobe Photoshop and Illustrator</li>
 	<li>Written and spoken English and Chinese (Mandarin)</li>
+</ul>
 
 <h2>Projects</h2>
 
