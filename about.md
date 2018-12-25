@@ -3,8 +3,9 @@ title: About
 layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
+
 ---
-<h2>Hi, I'm Amber Hsu</h2>
+<h2>I'm Amber Hsu...</h2>
 
 <p>I am currently a Junior studying English and Biochemistry at the University of Washington. In the past few years I've developed an interest in the field of digital marketing, particularly in the workings of digital copy and content strategy. I have experience writing professional copy for everything from Facebook marketing posts and outreach emails to Residential Advisor newsletters and chemistry lab reports.</p>
 
