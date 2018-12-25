@@ -27,6 +27,7 @@ layout: page
 	</ul>
 	<li>Adobe Photoshop and Illustrator</li>
 	<li>Written and spoken English and Chinese (Mandarin)</li>
+
 ---
 <h2>Projects</h2>
 
