@@ -30,8 +30,8 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">UW Night Market 2017</a></li>
-	<li><a href="https://github.com/">UW Night Market 2018</a></li>
-	<li><a href="https://github.com/">TSA Clash of Clubs</a></li>
-	<li><a href="https://github.com/">Healthcare Alternative Spring Break</a></li>
+	<li><a href="https://amberhsuu.github.io/UW-Night-Market-2017/">UW Night Market 2017</a></li>
+	<li><a href="https://amberhsuu.github.io/UW-Night-Market-2018/">UW Night Market 2018</a></li>
+	<li><a href="https://amberhsuu.github.io/TSA-Clash-of-Clubs/">TSA Clash of Clubs</a></li>
+	<li><a href="https://amberhsuu.github.io/HCASB/">Healthcare Alternative Spring Break</a></li>
 </ul>
