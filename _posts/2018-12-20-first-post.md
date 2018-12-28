@@ -22,6 +22,6 @@ A few years back, I read somewhere that the author Roald Dahl had once come up w
 
 This is the little corner of the internet I hope to call mine, and here you'll find my slowly growing collection of the occasional reflections, book reviews, day-to-day ponderings, etc. I'm excited to write more, and I hope you're excited to read more as well!
 
-❄️Happy Holidays❄️
+❄ Happy Holidays ❄
 
 Amber
