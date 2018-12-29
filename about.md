@@ -12,21 +12,15 @@ layout: page
 ---
 <h2>Skills</h2>
 
-<ul>
-	<li>Professional copy for varied purposes and audiences</li>
-	<li>Social media marketing strategy on various platforms</li>
-	<ul>
-	<li>Facebook, Instagram, Snapchat</li>
-	</ul>
-	<li>Inter-organizational outreach and work coordination</li>
-	<li>Large and small scale event planning and facilitation</li>
-	<li>Education management platforms
-	<ul>
-	<li>Exxat, Filemaker, Catalyst, Canvas</li>
-	</ul>
-	<li>Adobe Photoshop and Illustrator</li>
-	<li>Written and spoken English and Chinese (Mandarin)</li>
-</ul>
+- Professional copy for varied purposes and audiences
+- Social media marketing strategy on various platforms
+  - Facebook, Instagram, Snapchat
+- Inter-organizational outreach and work coordination
+- Large and small scale event planning and facilitation
+- Education management platforms
+  - Exxat, Filemaker, Catalyst, Canvas
+- Adobe Photoshop and Illustrator
+- Written and spoken English and Chinese (Mandarin)
 
 <h2>Projects</h2>
 
