@@ -2,7 +2,7 @@
 layout: page
 title: Home
 ---
-
+<!--
 <section class="list">
 	{% if site.posts.size == 0 %}
 		<p class="text-center">Nothing published yet!</p>
@@ -18,13 +18,13 @@ title: Home
 		{% include pagination.html%}
 	{% else %}
 		{% for post in site.posts %}
-		<!--
+			
 			{% if post.category == 'blog' %}
 				{% if post.hidden != true %}
 					{% include blog-post.html %}
 				{% endif %}
 			{% endif %}
-			-->
+			
             {% if post.projects %}
             <div class="item {% if post.star %}star{% endif %}">
                 <a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
@@ -32,7 +32,9 @@ title: Home
                     <h3 class="title">{{ post.title }}</h3>
                 </a>
             </div>
-        {% endif %}
+			{% endif %}
+			
 		{% endfor %}
 	{% endif %}
 </section>
+-->
