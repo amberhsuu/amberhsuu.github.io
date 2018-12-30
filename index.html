@@ -18,11 +18,13 @@ title: Home
 		{% include pagination.html%}
 	{% else %}
 		{% for post in site.posts %}
+		<!--
 			{% if post.category == 'blog' %}
 				{% if post.hidden != true %}
 					{% include blog-post.html %}
 				{% endif %}
-            {% endif %}
+			{% endif %}
+			-->
             {% if post.projects %}
             <div class="item {% if post.star %}star{% endif %}">
                 <a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
