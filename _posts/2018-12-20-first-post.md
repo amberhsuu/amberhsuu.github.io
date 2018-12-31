@@ -1,5 +1,5 @@
 ---
-title: "My first post"
+title: "My First Post"
 layout: post
 date: 2018-12-20 22:44
 image: /assets/images/markdown.jpg
@@ -12,7 +12,7 @@ author: amberhsu
 description: First blog post
 ---
 
-# My first post
+# My First Post
 ---
 Whether you've managed to find this blog via a direct link or some sort of misclick- hello and welcome! I'm Amber, and this is my first blog post.
 
