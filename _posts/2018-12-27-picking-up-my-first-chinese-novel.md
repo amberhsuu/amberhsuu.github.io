@@ -1,7 +1,7 @@
 ---
 title: "A Language Autobiography"
 layout: post
-date: 2018-12-28 22:44
+date: 2018-12-27 22:44
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
