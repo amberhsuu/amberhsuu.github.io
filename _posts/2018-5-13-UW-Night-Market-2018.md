@@ -1,7 +1,7 @@
 ---
 title: "UW Night Market 2018"
 layout: post
-date: 2018-05-13 22:10
+date: 2018-05-13 24:00
 tag: projects
 image:
 headerImage: true
@@ -13,7 +13,7 @@ author: amberhsu
 externalLink: false
 ---
 Marketing campaign
-ggg
+Role: Director of Marketing and Public Relations
 
 <div class="side-by-side">
     <div class="toleft">
