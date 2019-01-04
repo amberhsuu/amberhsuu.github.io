@@ -1,33 +1,45 @@
+<style>
+    .nav-active {
+        font-weight: 500!important;
+        color: red;
+    }
+</style>
 <nav class="{% if page.title == "Home" %}nav-home{% else %}nav{% endif %}">
     <ul class="list">
-        {% if page.title != "Home" %}
+        <!-- {% if page.title != "Home" %}
             <li class="item">
                 <a class="link" href="{{ site.url }}/">Home</a>
             </li>
-        {% endif %}
+        {% endif %} -->
 
         {% if site.projects == true %}
+            <li class="item">
             {% if page.title != "Projects" %}
-                <li class="item">
-                    <a class="link" href="{{ site.url }}/projects">Projects</a>
-                </li>
+                <a class="link" href="{{ site.url }}/">Projects</a>
+            {% else %}
+                <a class="link nav-active" href="{{ site.url }}/">Projects</a>
             {% endif %}
+            </li>
         {% endif %}
 
         {% if site.blog == true %}
+            <li class="item">
             {% if page.title != "Blog" %}
-                <li class="item">
                     <a class="link" href="{{ site.url }}/blog">Blog</a>
-                </li>
+            {% else %}
+                <a class="link nav-active" href="{{ site.url }}/blog">Blog</a>
             {% endif %}
+             </li>
         {% endif %}
 
         {% if site.about == true %}
+            <li class="item">
             {% if page.title != "About" %}
-                <li class="item">
                     <a class="link" href="{{ site.url }}/about">About</a>
-                </li>
+            {% else %}
+                <a class="link nav-active" href="{{ site.url }}/about">About</a>
             {% endif %}
+            </li>
         {% endif %}
 
         {% if site.resume == true %}

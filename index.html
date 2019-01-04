@@ -1,8 +1,27 @@
 ---
 layout: page
+title: Projects
+---
+<section class="list">
+    {% for post in site.posts %}
+        {% if post.projects %}
+            <div class="item {% if post.star %}star{% endif %}">
+                <a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
+					<img src="https://seattle.carpe-diem.events/data/afisha/o/c8/62/c862d97b38.jpg">
+					<h3 class="title">{{ post.title }}</h3>
+					<aside><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d %Y" }}</time></aside>
+                </a>
+            </div>
+        {% endif %}
+    {% endfor %}
+</section>
+
+
+<!-- 
+---
+layout: page
 title: Home
 ---
-<!--
 <section class="list">
 	{% if site.posts.size == 0 %}
 		<p class="text-center">Nothing published yet!</p>
@@ -36,5 +55,4 @@ title: Home
 			
 		{% endfor %}
 	{% endif %}
-</section>
--->
+</section> -->
