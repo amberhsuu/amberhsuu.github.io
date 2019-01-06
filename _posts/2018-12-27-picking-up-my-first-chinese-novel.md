@@ -13,7 +13,16 @@ description: Picking Up My First Chinese Novel- a language autobiography
 ---
 
 # Picking up my first Chinese novel
+
 ---
+
+<p align="center">
+<img class="image" src="https://amberhsuu.github.io/assets/images/little.jpg" alt="A younger Amber at UW Seattle." width="350"/>
+<figcaption class="caption">A younger Amber at UW Seattle.</figcaption>
+</p>
+
+---
+
 Very recently, I had picked up my very first Chinese novel, a work called “我不喜歡這世界，我只喜歡你” (translated to mean: “I don’t like this world, I only like you” ), by the author Qiao Yi. The book is written to be an autobiography of sorts about the everyday life of the author, portrayed in the form of many small stories compiled together into a book- the fact that the work is written in Chinese had at first discouraged me, but the the way my friends had described and recommended it interested me enough for me to start reading. My Chinese had never been at a high enough level for me to be able to read through a dense paragraph without stopping to look a word up at least once or twice. Unlike English, written Chinese is not a phonetic language, and each character needs to be individually identified by memory in order to read written text in the language. This meant that though I had good listening and speaking comprehension of the language, my reading and writing abilities lagged behind. 
 
 As is typical with many Asian Americans, I had grown up with two languages- in my case, English and Chinese. Both languages I had learned how to speak first, then read and write, and are both languages I had come to become fluent in as a result of the environments I had grown up in.
