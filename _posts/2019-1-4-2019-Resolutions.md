@@ -13,8 +13,15 @@ description: Setting my 2019 resolutions
 ---
 
 # 2019 Resolutions!
+
 ---
- <img class="image" src="https://amberhsuu.github.io/assets/images/new.jpg" alt="Me celebrating New Year's Day">
+
+<p align="center">
+<img class="image" src="https://amberhsuu.github.io/assets/images/new.jpg" alt="Me celebrating New Year's Day" width="350"/>
+<figcaption class="caption">I celebrated New Year's Eve in Vancouver!</figcaption>
+</p>
+
+---
 
 At the start of every year, I try to come up with a short list of resolutions for the upcoming year. This year, I want to make an active effort to set realistic, achievable expectations for myself, along with smaller action plans that will help me fulfill the items on the list. This is the list I have created for 2019!
 
