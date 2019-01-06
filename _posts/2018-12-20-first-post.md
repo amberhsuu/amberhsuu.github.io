@@ -10,9 +10,7 @@ star: true
 category: blog
 author: amberhsu
 description: First blog post
----
 
-# My First Post
 ---
 Whether you've managed to find this blog via a direct link or some sort of misclick- hello and welcome! I'm Amber, and this is my first blog post.
 

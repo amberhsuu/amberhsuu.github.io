@@ -1,5 +1,5 @@
 ---
-title: "A Language Autobiography"
+title: "A Language Autobiography: Picking up my First Chinese Novel"
 layout: post
 date: 2018-12-27 22:44
 image: /assets/images/markdown.jpg
@@ -10,10 +10,6 @@ star: true
 category: blog
 author: amberhsu
 description: Picking Up My First Chinese Novel- a language autobiography
----
-
-# Picking up my first Chinese novel
-
 ---
 
 <p align="center">
