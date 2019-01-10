@@ -33,7 +33,7 @@ Marketing Director
 ### Results:
 - Increased event attendee stats **increased by XX%** from prior year
 - Attracted **6000+ attendees** to the event
-- Facebook event: https://www.facebook.com/events/277378172887691/
+- Facebook event: [facebook.com/events/277378172887691/](https://www.facebook.com/events/277378172887691/)
 
 ---
 

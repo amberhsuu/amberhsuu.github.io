@@ -36,7 +36,7 @@ Director of Marketing and Public Relations
 - Increased event attendee stats **increased by 33%** from prior year
 - Attracted **8000+ attendees** to the event
 - Formed partnership relationships with **13 new media publications**
-- Facebook event: https://www.facebook.com/events/991125381040343/
+- Facebook event: [facebook.com/events/991125381040343/](www.facebook.com/events/991125381040343/)
 
 ---
 

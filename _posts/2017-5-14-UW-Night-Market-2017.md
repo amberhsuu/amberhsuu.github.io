@@ -31,7 +31,7 @@ Social Media Coordinator
 ### Results:
 - Increased event attendee stats **increased by XX%** from prior year
 - Attracted **6000+ attendees** to the event
-- Facebook event: https://www.facebook.com/events/300833770329682/
+- Facebook event: [facebook.com/events/300833770329682/](https://www.facebook.com/events/300833770329682/)
 
 ---
 
