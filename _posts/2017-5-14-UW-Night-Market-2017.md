@@ -12,5 +12,28 @@ category: project
 author: amberhsu
 externalLink: false
 ---
-Marketing campaign
-Role: Social Media Coordinator
+
+<p align="center">
+<img class="image" src="https://amberhsuu.github.io/assets/images/uwnm2017.jpg" alt="UW Night Market 2017 official banner." width="850"/>
+<figcaption class="caption">UW Night Market 2017 official banner.</figcaption>
+</p>
+
+### Role: 
+Social Media Coordinator
+
+### Responsibilities:
+- Work with Marketing Director to create digital marketing plan for the 2nd biggest event at the UW.
+- Write digital copy and schedule social media posts to reach maximum audience interaction (fb and ig).
+
+### Goals:
+
+
+### Results:
+- Increased event attendee stats **increased by XX%** from prior year
+- Attracted **6000+ attendees** to the event
+- Facebook event: https://www.facebook.com/events/300833770329682/
+
+---
+
+### Strategy:
+- Track page activity of followers, schedule content release take advantage of peak page activity

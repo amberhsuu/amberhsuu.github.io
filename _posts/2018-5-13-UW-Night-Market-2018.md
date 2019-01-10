@@ -29,7 +29,7 @@ Director of Marketing and Public Relations
 ### Goals:
 - Increase Facebook event reach:attendance ratio
 - Increase post engagement rate
-- Explore alternate sources fo media exposure
+- Explore alternate sources for media exposure
 
 ### Results:
 - Facebook audience reach to attendee ratio **increased from 3.75% in 2017 to 4.99% in 2018**
