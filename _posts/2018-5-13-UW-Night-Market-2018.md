@@ -14,7 +14,7 @@ externalLink: false
 ---
 
 <p align="center">
-<img class="image" src="https://amberhsuu.github.io/assets/images/uwnm2018.jpg" alt="UW Night Market 2018 official poster." width="350"/>
+<img class="image" src="https://amberhsuu.github.io/assets/images/uwnm2018.jpg" alt="UW Night Market 2018 official poster." width="500"/>
 <figcaption class="caption">UW Night Market 2018 official banner.</figcaption>
 </p>
 
