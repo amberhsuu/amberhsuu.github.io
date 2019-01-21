@@ -25,9 +25,15 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://amberhsuu.github.io/UW-Night-Market-2017/">UW Night Market 2017</a></li>
+    {% for post in site.posts %}
+        {% if post.projects %}
+			<li><a href ="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}"> {{ post.title }} </a></li>
+        {% endif %}
+    {% endfor %}
+	<!-- <li><a href="https://amberhsuu.github.io/UW-Night-Market-2017/">UW Night Market 2017</a></li>
 	<li><a href="https://amberhsuu.github.io/UW-Night-Market-2018/">UW Night Market 2018</a></li>
 	<li><a href="https://amberhsuu.github.io/TSA-Clash-of-Clubs/">TSA Clash of Clubs</a></li>
-	<li><a href="https://amberhsuu.github.io/HCASB/">Healthcare Alternative Spring Break</a></li>
-<a href="https://amberhsuu.github.io/projects/">More projects...</a>
+	<li><a href="https://amberhsuu.github.io/HCASB/">Healthcare Alternative Spring Break</a></li> -->
+	<br/>
+	<a href="/">Go to Project Page ></a>
 </ul>
