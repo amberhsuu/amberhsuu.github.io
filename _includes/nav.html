@@ -1,7 +1,19 @@
 <style>
+    .nav > .list > .item > .link {
+        font-size: 1.6rem;
+        padding: 20px 7px;
+        color: #222
+    }
+
+    .nav > .list > .item > .link:hover {
+        color: rgb(43, 146, 43) !important;
+        text-decoration: underline;
+    }
+
     .nav-active {
         font-weight: 500!important;
-        color: rgb(43, 146, 43);
+        color: rgb(43, 146, 43)!important;
+        text-decoration: underline!important;
     }
 </style>
 <nav class="{% if page.title == "Home" %}nav-home{% else %}nav{% endif %}">

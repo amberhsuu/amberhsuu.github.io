@@ -3,8 +3,8 @@ title: "TSA Clash of Clubs"
 layout: post
 date: 2018-11-9 24:00
 tag: projects
-image:
-headerImage: true
+image: /assets/images/tsacoc.jpg
+headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
 description: "Marketing Director for TSA Clash of Clubs"
@@ -13,10 +13,11 @@ author: amberhsu
 externalLink: false
 ---
 
-<p align="center">
-<img class="image" src="https://amberhsuu.github.io/assets/images/tsacoc.jpg" alt="TSA Clash of Clubs: Fire and Ice official banner." width="850"/>
-<figcaption class="caption">TSA Clash of Clubs: Fire and Ice official banner.</figcaption>
-</p>
+<div style="text-align: center">
+    <img class="image" src="/assets/images/tsacoc.jpg" alt="TSA Clash of Clubs: Fire and Ice official banner." width="850"/>
+    <figcaption class="caption">TSA Clash of Clubs: Fire and Ice official banner.</figcaption>
+</div>
+
 
 ### Role: 
 Marketing Director

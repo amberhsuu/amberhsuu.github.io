@@ -12,10 +12,10 @@ author: amberhsu
 description: Picking Up My First Chinese Novel- a language autobiography
 ---
 
-<p align="center">
-<img class="image" src="https://amberhsuu.github.io/assets/images/little.jpg" alt="A younger Amber at UW Seattle." width="350"/>
-<figcaption class="caption">A younger Amber at UW Seattle.</figcaption>
-</p>
+<div style="text-align: center">
+    <img class="image" src="https://amberhsuu.github.io/assets/images/little.jpg" alt="A younger Amber at UW Seattle." width="350"/>
+    <figcaption class="caption">A younger Amber at UW Seattle.</figcaption>
+</div>
 
 ---
 

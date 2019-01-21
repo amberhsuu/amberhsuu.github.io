@@ -12,10 +12,10 @@ author: amberhsu
 description: Setting my 2019 resolutions
 ---
 
-<p align="center">
-<img class="image" src="https://amberhsuu.github.io/assets/images/new.jpg" alt="Me celebrating New Year's Day" width="350"/>
-<figcaption class="caption">I celebrated New Year's Eve in Vancouver!</figcaption>
-</p>
+<div style="text-align: center">
+    <img class="image" src="https://amberhsuu.github.io/assets/images/new.jpg" alt="Me celebrating New Year's Day" width="350"/>
+    <figcaption class="caption">I celebrated New Year's Eve in Vancouver!</figcaption>
+</div>
 
 ---
 

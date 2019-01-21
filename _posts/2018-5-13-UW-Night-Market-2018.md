@@ -3,8 +3,8 @@ title: "UW Night Market 2018"
 layout: post
 date: 2018-05-13 24:00
 tag: projects
-image:
-headerImage: true
+image: /assets/images/uwnm2018.jpg
+headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
 description: "Marketing Director for the UW Night Market 2018."
@@ -13,10 +13,10 @@ author: amberhsu
 externalLink: false
 ---
 
-<p align="center">
-<img class="image" src="https://amberhsuu.github.io/assets/images/uwnm2018.jpg" alt="UW Night Market 2018 official poster." width="850"/>
-<figcaption class="caption">UW Night Market 2018 official banner.</figcaption>
-</p>
+<div style="text-align: center">
+    <img class="image" src="/assets/images/uwnm2018.jpg" alt="UW Night Market 2018 official poster." width="850"/>
+    <figcaption class="caption">UW Night Market 2018 official banner.</figcaption>
+</div>
 
 ### Role: 
 Director of Marketing and Public Relations

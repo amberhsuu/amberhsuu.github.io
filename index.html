@@ -2,12 +2,48 @@
 layout: page
 title: Projects
 ---
+<style>
+	.project-item {
+		overflow: hidden;
+		background-color: white;
+		padding: 20px;
+		padding-top: 0;
+		border-radius: 10px;
+
+		-o-transition:.2s;
+		-ms-transition:.2s;
+		-moz-transition:.2s;
+		-webkit-transition:.2s;
+		/* ...and now for the proper property */
+		transition:.2s;
+	}
+
+	.project-item:hover {
+		background-color: #f7f6f6;
+	}
+
+	.project-item .title {
+		color: #222!important; /* No hover effects */
+	}
+
+	.project-img {
+		float: left;
+		width: 40%;
+		overflow: hidden;
+		margin-right: 25px;
+	}
+
+	.project-item aside {
+		margin-top: 5px;
+	}
+
+</style>
 <section class="list">
     {% for post in site.posts %}
         {% if post.projects %}
-            <div class="item {% if post.star %}star{% endif %}">
+            <div class="item {% if post.star %}star{% endif %} project-item ">
                 <a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
-					<img src="https://seattle.carpe-diem.events/data/afisha/o/c8/62/c862d97b38.jpg">
+					<img class="project-img" src="{{post.image}}">
 					<h3 class="title">{{ post.title }}</h3>
 					<aside><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d %Y" }}</time></aside>
                 </a>

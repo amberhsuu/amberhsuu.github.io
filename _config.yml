@@ -1,6 +1,6 @@
 # main text of home
-name: amber  hsu
-bio: <p>Studying English & Biochemistry at the University of Washington.<br>Interested in digital copy and content strategy.</p>
+name: Amber Hsu
+bio: Studying English & Biochemistry at the University of Washington.<br>Interested in digital copy and content strategy.
 
 # twitter summary info
 description: Some samples of my work
@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-local: true
-resume-url: https://google.com/?q=my+resume
+resume-url: /assets/resume.pdf
 
 url: https://amberhsuu.github.io
 # your url: http://USERNAME.github.io

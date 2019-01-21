@@ -3,8 +3,8 @@ title: "TSA Semiformal: Sky Full of Stars"
 layout: post
 date: 2018-11-9 24:00
 tag: projects
-image:
-headerImage: true
+image: /assets/images/tsasemi.jpg
+headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
 description: "Marketing Director for TSA Semiformal: Sky Full of Stars"
@@ -13,10 +13,10 @@ author: amberhsu
 externalLink: false
 ---
 
-<p align="center">
-<img class="image" src="https://amberhsuu.github.io/assets/images/tsasemi.jpg" alt="TSA Semiformal: Sky Full of Stars official banner." width="850"/>
-<figcaption class="caption">TSA Semiformal: Sky Full of Stars official banner.</figcaption>
-</p>
+<div style="text-align: center">
+    <img class="image" src="/assets/images/tsasemi.jpg" alt="TSA Semiformal: Sky Full of Stars official banner." width="850"/>
+    <figcaption class="caption">TSA Semiformal: Sky Full of Stars official banner.</figcaption>
+</div>
 
 ### Role: 
 Marketing Director
