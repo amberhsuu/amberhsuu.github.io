@@ -15,9 +15,9 @@ description: The Taste of Home (A Short Poem)
 
 
 <div style="text-align: center">
-    <img class="image" src="https://amberhsuu.github.io/assets/images/homepoem.jpg" alt="The Taste of Home" width="350"/>
+    <img class="image" src="https://amberhsuu.github.io/assets/images/homepoem.jpg" alt="The Taste of Home" width="500"/>
 </div>
  
  <div style="text-align: center">
-    <img class="image" src="https://amberhsuu.github.io/assets/images/homepoem1.jpg" alt="The Taste of Home" width="350"/>
+    <img class="image" src="https://amberhsuu.github.io/assets/images/homepoem1.jpg" alt="The Taste of Home" width="500"/>
 </div>
