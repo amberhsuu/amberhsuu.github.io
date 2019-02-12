@@ -29,11 +29,18 @@ Social Media Coordinator
 
 
 ### Results:
-- Increased event attendee stats **increased by XX%** from prior year
+- Increased event attendee stats **increased by 28%** from prior year
 - Attracted **6000+ attendees** to the event
 - Facebook event: [facebook.com/events/300833770329682/](https://www.facebook.com/events/300833770329682/)
 
 ---
 
 ### Strategy:
-- Track page activity of followers, schedule content release take advantage of peak page activity
+- Maintain social media online presence with consistent posts and direct audience interactions.
+    - Used the #uwnightmarket2017 and #UWNM2017 hashtags and mentions of official social media accounts on all released content.
+    - Encouraged audience to post on Facebook and Instagram with hashtags and to tag UW Night Market accounts to increase link redirect potential.
+    - Hosted giveaways and shout-out opportunities on the official pages to further encourage audience to share and mention the event on their social media platforms.
+
+- Track follower activity and schedule content release at specific time windows.
+    - Facebook page insights indicated highest audience interactions to be during specific times in the afternoons and evenings.
+    - All posts and pictures were scheduled to be released during the time windows 12pm - 2pm and 9pm - 11pm.
