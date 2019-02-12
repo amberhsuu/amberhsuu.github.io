@@ -23,10 +23,11 @@ Social Media Coordinator
 
 ### Responsibilities:
 - Work with Marketing Director to create digital marketing plan for the 2nd biggest event at the UW.
-- Write digital copy and schedule social media posts to reach maximum audience interaction (fb and ig).
+- Write digital copy and schedule social media posts to reach maximum audience interaction (Fb and Ig).
 
 ### Goals:
-
+- Increase audience interactions on social media platforms.
+- Increase reach of content posted on official Facebook and Instagram accounts.
 
 ### Results:
 - Increased event attendee stats **increased by 28%** from prior year
