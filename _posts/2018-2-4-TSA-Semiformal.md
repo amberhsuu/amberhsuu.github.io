@@ -45,10 +45,17 @@ Marketing Director
 
 ---
 
+### Examples of Marketing Material:
+
 Personalized profile pictures of some TSA officers:
 <div style="text-align: center">
     <img class="image" src="/assets/images/prof.jpg" alt="TSA Officer profile pictures." width="850"/>
 </div>
+
+---
+
+Official event video:
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/muxeCH-DRko" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
@@ -62,7 +69,3 @@ Some samples of our Facebook countdown posts:
         <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftsauwseattle%2Fposts%2F1734870983249929&width=350" width="350" height="510" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
     </div>
 </div>
----
-
-Official event video:
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/muxeCH-DRko" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
