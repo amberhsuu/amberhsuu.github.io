@@ -47,6 +47,34 @@ Director of Marketing and Public Relations
 - Increase usage of **Instagram platform**
 - Reach out to external media outlets for cross-promotion and marketing sponsorship
 
+---
+
+This year we created gifs and short videos as an eye-catching way to relay smaller amounts of information and quick reminders about the event.
+- These are the countdown graphics we created to post on the Facebook event page (the event mascot Bobo is featured):
+
+<div class="side-by-side">
+    <div class="toleft">
+        <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FTheUWNightMarket%2Fvideos%2F1522686941169087%2F&show_text=0&width=560" width="300" height="200" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+    </div>
+
+    <div class="toright">
+        <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FTheUWNightMarket%2Fvideos%2F1518807658223682%2F&show_text=0&width=560" width="300" height="200" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+    </div>
+</div>
+
+--- 
+
+Longer promotional videos were also created to represent the main values of our organization, and the message we were hoping to deliver through this event- that food brings people together.
+- This is one of 3 longer videos we promoted on Youtube, Facebook, and Instagram:
+
+<div>
+<iframe width="800" height="350" src="https://www.youtube.com/embed/6K2HFB6NfXU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+---
+
+We featured photos with the hashtag #uwnightmarket2018 or tagged @uwnightmarket to increase post exposure on the platform, and to encourage people to follow our official account.
+- Here are some of our Instagram promo posts:
 
 <div class="side-by-side">
     <div class="toleft">
@@ -58,21 +86,9 @@ Director of Marketing and Public Relations
     </div>
 </div>
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheUWNightMarket%2Fposts%2F1527821053989009&width=500" width="500" height="555" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
-
-<div class="side-by-side">
-    <div class="toleft">
-        <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FTheUWNightMarket%2Fvideos%2F1518807658223682%2F&show_text=0&width=560" width="300" height="200" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
-    </div>
-
-    <div class="toright">
-        <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FTheUWNightMarket%2Fvideos%2F1528269577277490%2F&show_text=0&width=560" width="300" height="200" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
-    </div>
-</div>
-
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FTheUWNightMarket%2Fvideos%2F1522686941169087%2F&show_text=0&width=560" width="300" height="200" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
-
-<div>
-<iframe width="800" height="350" src="https://www.youtube.com/embed/6K2HFB6NfXU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 ---
+
+Infographics were designed by the Marketing Team to relay important event information in a easy-to-consume format.
+- Posts like this were shared on the official Facebook and Instagram pages:
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheUWNightMarket%2Fposts%2F1527821053989009&width=500" width="500" height="555" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
