@@ -51,8 +51,8 @@ Director of Marketing and Public Relations
 
 ### Samples of Marketing Content:
 
-This year we created gifs and short videos as an eye-catching way to relay smaller amounts of information and quick reminders about the event.
-- These are the countdown graphics we created to post on the Facebook event page (the event mascot Bobo is featured):
+We created gifs and short videos as an eye-catching way to relay smaller amounts of information and quick reminders about the event.
+- These are some countdown graphics we created to post on the Facebook event page (the event mascot Bobo is featured):
 
 <div class="side-by-side">
     <div class="toleft">
@@ -75,8 +75,8 @@ Longer promotional videos were also created to represent the main values of our 
 
 ---
 
-We featured photos with the hashtag #uwnightmarket2018 or tagged @uwnightmarket to increase post exposure on the platform, and to encourage people to follow our official account.
-- Here are some of our Instagram promo posts:
+We featured photos with the hashtag #uwnightmarket2018 or tagged @uwnightmarket to increase post exposure on Instagram, and to encourage people to follow our official account.
+- Here are some of our reposted photos:
 
 <div class="side-by-side">
     <div class="toleft">
