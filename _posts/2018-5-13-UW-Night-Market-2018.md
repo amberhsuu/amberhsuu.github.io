@@ -49,6 +49,8 @@ Director of Marketing and Public Relations
 
 ---
 
+### Samples of Marketing Content:
+
 This year we created gifs and short videos as an eye-catching way to relay smaller amounts of information and quick reminders about the event.
 - These are the countdown graphics we created to post on the Facebook event page (the event mascot Bobo is featured):
 
