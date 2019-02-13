@@ -90,7 +90,7 @@ We featured photos with the hashtag #uwnightmarket2018 or tagged @uwnightmarket 
 
 ---
 
-Infographics were designed by the Marketing Team to relay important event information in a easy-to-consume format.
+Infographics were designed by the Marketing Team to relay important event information in an easy-to-consume format.
 - Posts like this were shared on the official Facebook and Instagram pages:
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheUWNightMarket%2Fposts%2F1527821053989009&width=500" width="500" height="555" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
