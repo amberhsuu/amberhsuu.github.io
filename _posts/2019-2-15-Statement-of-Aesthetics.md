@@ -16,7 +16,7 @@ When Bob Dylan's song lyrics won a Nobel prize for literature in 2016, it sparke
 
 I think art to me is anything produced by a living, thinking, individual mind. In this vein, I mean that it should be something that is unique to the creator themselves- that the product would be different every time even if the same thoughts that were running through the creator's brain during the time of creation could somehow be transferred to the brains of other people. Something original. Special. One-of-a-kind.
 
-I personally do not think that art is supposed to "make you feel things" or have the need to incite any semblance of emotion from either the creator or the appreciator. Deeper purpose need not be a requirement either- both on the creation end or on the receiving end. While there is an abundance of socially accepted "art" created with a certain image or idea in mind, I do not think that we should be able to deem that something created out of scribbles or whispers or random words plucked out of thin air is not to be considered art.
+I do not think that art necessarily has to "make you feel things" or to incite any semblance of emotion from either the creator or the appreciator. Deeper purpose need not be a requirement either- both on the creation end or on the receiving end. While there is an abundance of socially accepted "art" created with a certain image or idea in mind, I do not think that we should be able to deem that something created out of scribbles or whispers or random words plucked out of thin air is not to be considered art.
 
 At the end of the day, these criteria I have stated are simply how I view "art" as an individual person with an individual perspective, and are not applicable anywhere outside the confines of my mind. Who am I to tell someone else that their definition of art is wrong simply because it is different from mine? And in this lies what I think is the greatest beauty of art- the sheer subjectivity that lies in the nature of art itself.
 
@@ -28,8 +28,8 @@ While I'll always hold a special respect for those who choose to write in the be
 
 These are some of my favourite poems- I highly recommend giving them a read:
 
-- *Dulce et Decorum est* by Wilfred Owen (the imagery in all of his poetry is beautiful)
+- *Dulce et Decorum est* by Wilfred Owen (the imagery in all of his poetry is beautiful and this is one of my favourites)
 - *Because I could not stop for death* by Emily Dickinson
 - *Porphyria's lover* by Robert Browning (this is a genius play on a traditional trope)
-- *next to of course god america i* by E.E. Cummings (poetry structure and it's rules are completely redefined to make a point)
+- *next to of course god america i* by E.E. Cummings (the rules of poetry structure are completely redefined to make a point)
 - *The Same-Different* poems by Hannah Sanghee Park
