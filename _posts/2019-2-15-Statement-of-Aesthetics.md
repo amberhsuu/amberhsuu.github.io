@@ -12,7 +12,7 @@ author: amberhsu
 description: "Poetry as a form of Art"
 ---
 
-When Bob Dylan's song lyrics won a Nobel prize for literature in 2016, it sparked all sorts of questions in the arts community: Could song lyrics even be classified as a form of literary art? What exactly defines a genre or an art form? And a question that may emerge from those with a more conservatively-inclined mindset of artistic tradition: How far can artistic license be pushed as a form of creative freedom before it begins to threaten the integrity of what art has traditionally been defined?
+When Bob Dylan's song lyrics won a Nobel prize for literature in 2016, it sparked all sorts of questions in the arts community: Could song lyrics even be classified as a form of literary art? What exactly defines a genre or an art form? And a question that may emerge from those with a more conservatively-inclined mindset of artistic tradition: How far can artistic license be pushed as a form of creative freedom before it begins to threaten the integrity of how art has traditionally been defined?
 
 I think art to me is anything produced by a living, thinking, individual mind. In this vein, I mean that it should be something that is unique to the creator themselves- that the product would be different every time even if the same thoughts that were running through the creator's brain during the time of creation could somehow be transferred to the brains of other people. Something original. Special. One-of-a-kind.
 
