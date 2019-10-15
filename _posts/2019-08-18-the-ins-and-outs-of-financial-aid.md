@@ -23,19 +23,19 @@ College tuition is a large sum of money that needs to be paid each quarter in fu
 
 Here are a few important things to look into before each academic year to avoid any last-minute tuition-induced stress:
 
-*How do I apply for financial aid?*
+**How do I apply for financial aid?**<br>
 All students can apply for financial aid by submitting either a Free Application for Federal Student Aid (FAFSA) or the Washington Application for State Financial Aid (WASFA) online. All admitted students to the UW who submit one of the two financial aid applications are considered for aid. Financial aid applications are calculated on what is called the student's expected family contribution. 
 
 “The expected family contribution is an index figure that then tells us how much and what types of financial aid that a student may be eligible for it also goes into a calculation to determine financial need,” associate director of OSFA Kimberly Fee, said. “We encourage students to apply annually just to see what aid they could qualify for, as funding levels and eligibility could change from year to year.” 
 
-*What is the application timeline?*
+**What is the application timeline?**<br>
 The FAFSA and the WASFA both become available every year Oct. 1. The UW has a priority filing date of Jan. 15 [CQ 5], meaning that students need to submit their applications in the winter before the next school year to be considered for the school’s priority financial aid programs. Fee explains that “if a student misses the priority filing date, they can still submit their applications to be processed on a rolling basis, and they will be awarded with the funds that are still available.”
 
-*What types of financial aid are there?*
+**What types of financial aid are there?**<br>
 Financial aid doesn’t only come in the form of the more traditional loans, something I learned upon receiving my first financial award notification. Grants and scholarships are two examples of monetary aid that do not need to be repaid, like loans do. In addition to these, work study programs are, as stated on the OSFA website, jobs wherein the employer pays 25-60 percent of the student’s wages, and the remainder is covered by federal or state funds, giving qualified students the opportunity to work part-time while attending school. Most grants and work study are determined from financial need, and scholarships offered by the OSFA look at both financial need and/or academic merit.
 
-*How do I check my financial aid status?*
+**How do I check my financial aid status?**<br>
 MyUW is the online resource I use most frequently to check for any updates on my financial aid status. The student portal is available 24/7 for students to see cost of attendance, accept or reject financial aid awards, and to see their document review status. Fee also encourages students to “check their UW email account periodically, as the OSFA uses email to let students know when they need to submit documents or when their financial aid offers are ready.”
 
-*Have questions about your financial aid?*
+**Have questions about your financial aid?**<br>
 Though sorting out tuition and financial aid may seem daunting, there are plenty of resources available online and on campus at your disposal. Studentaid.gov is a good resource for questions about federal financial aid programs like the Pell Grant or student and parent loans. The OSFA website (https://www.washington.edu/financialaid/) is also a great resource for any UW-specific questions. Financial aid counselors at the OSFA can also be reached through email, by phone, or in-person at Schmitz Hall on the UW Seattle campus, which I know to be the quickest method to ask for guidance on any urgent inquiries.
