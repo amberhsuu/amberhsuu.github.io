@@ -1,5 +1,5 @@
 ---
-title: "Blog || 2019 Resolutions!"
+title: "Blog | 2019 Resolutions!"
 layout: post
 date: 2019-1-3 22:44
 image: /assets/images/markdown.jpg

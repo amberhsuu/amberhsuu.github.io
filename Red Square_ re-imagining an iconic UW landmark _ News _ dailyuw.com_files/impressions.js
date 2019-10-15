@@ -1,0 +1,1 @@
+TNCMS.AdManager.setImpressions('www.dailyuw.com', {"daily":[],"total":[]});

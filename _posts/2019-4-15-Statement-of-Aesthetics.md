@@ -1,5 +1,5 @@
 ---
-title: "Blog || Poetry as a form of Art"
+title: "Blog | Poetry as a form of Art"
 layout: post
 date: 2019-4-15 22:44
 image: /assets/images/markdown.jpg
