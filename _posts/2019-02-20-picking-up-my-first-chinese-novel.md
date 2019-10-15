@@ -1,7 +1,7 @@
 ---
-title: "A Language Autobiography: Picking up my First Chinese Novel"
+title: "Blog || A Language Autobiography (Picking up my First Chinese Novel)"
 layout: post
-date: 2018-12-27 22:44
+date: 2019-02-20 22:44
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:

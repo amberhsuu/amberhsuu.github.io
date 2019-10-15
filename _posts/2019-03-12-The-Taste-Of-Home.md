@@ -1,7 +1,7 @@
 ---
-title: "The Taste of Home (A Short Poem)"
+title: "Blog || The Taste of Home (A Short Poem)"
 layout: post
-date: 2019-1-20 22:44
+date: 2019-3-12 22:44
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
