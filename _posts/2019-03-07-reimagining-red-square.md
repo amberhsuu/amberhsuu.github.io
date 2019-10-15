@@ -5,7 +5,7 @@ date: 2019-03-07 22:44
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
-- thoughts
+- newsarticle
 star: true
 category: blog
 author: amberhsu
