@@ -7,20 +7,17 @@ layout: page
 ---
 <h2>I'm Amber Hsu...</h2>
 
-<p>I am currently a Senior studying English and Biochemistry at the University of Washington. In the past few years I've developed an interest in the field of digital marketing, particularly in the workings of digital copy and content strategy. I have experience optimizing and creating email engagement campaigns and writing professional copy for everything from Facebook marketing posts and newspaper articles to Residential Advisor newsletters and chemistry lab reports.</p>
+<p>I am currently a Senior studying English and Biochemistry at the University of Washington. I have experience optimizing and creating email engagement campaigns and writing professional copy for everything from Facebook marketing posts and newspaper articles to Residential Advisor newsletters. With my past experience in digital marketing and content strategy, I aim to help companies create personalized marketing campaigns that reach the right audience. I am currently seeking new grad and full-time opportunities. </p>
 
 ---
 <h2>Skills</h2>
 
+- Content and targeting segmentation development for email nurtures
+  - Familiarity with email service provider Adobe Marketo
 - Professional copy for varied purposes and audiences
-- Social media marketing strategy on various platforms
-  - Facebook, Instagram, Snapchat
-- Inter-organizational outreach and work coordination
+- Social media marketing strategy on various platforms incl. FB and IG
 - Large and small scale event planning and facilitation
-- Education management platforms
-  - Exxat, Filemaker, Catalyst, Canvas
-- Adobe Photoshop and Illustrator
-- Written and spoken English and Chinese (Mandarin)
+- Native fluency in English and Chinese (Mandarin)
 
 <h2>Projects</h2>
 
